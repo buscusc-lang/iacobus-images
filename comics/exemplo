@@ -1,4 +1,0 @@
-Carpeta destinada ao almacenamento de imaxes de portada para cómics empregadas como miniaturas no catálogo Iacobus
-As imaxes desta colección seguen unha convención de nomes baseada nun prefixo identificador e unha numeración secuencial con ceros á esquerda: comic_0001.jpg ; comic_0002.jpg ; comic_0003.jpg. Este sistema permite manter unha ordenación correcta dos ficheiros e facilita a ampliación da colección cando o número de imaxes medre.Nos rexistros MARC a imaxe referénciase mediante o campo:
-
-960 \ $a comic/comic_0001.jpg
